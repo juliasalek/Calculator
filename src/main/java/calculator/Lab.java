@@ -2,7 +2,7 @@ package calculator;
 
 import java.util.regex.Pattern;
 
-//TODO ulepszenie do operacji na kilku liczb
+//TODO ulepszenie do operacji na kilku liczbach
 public class Lab implements Ilab {
 
 
