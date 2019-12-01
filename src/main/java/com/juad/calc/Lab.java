@@ -26,7 +26,8 @@ class Lab {
             }
             else if (Pattern.matches("[a-zA-Z]", a)) {
 
-            } else if(Pattern.matches("[+/*-]", a)){
+            }
+            else if(Pattern.matches("[+/*-]", a)){
                 sign = a;
                 index++;
             }
